@@ -1,0 +1,28 @@
+{
+    "name": "Balancer",
+    "symbol": "BAL",
+    "type": "OPTIMISM",
+    "decimals": 18,
+    "description": "Balancer is an automated portfolio manager and trading platform.",
+    "website": "https://balancer.finance/",
+    "explorer": "https://optimistic.etherscan.io/token/0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "status": "active",
+    "id": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/balancer-labs"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BalancerLabs"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/balancer/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+}
